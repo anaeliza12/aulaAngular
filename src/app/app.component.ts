@@ -13,5 +13,5 @@ export class AppComponent {
 
   deasabilitado: boolean = false;
 
-  imageUrl: String = "http://lorm"
+  imagemUrl: String = "http://picsum.photos/id/1/200/300";
 }
